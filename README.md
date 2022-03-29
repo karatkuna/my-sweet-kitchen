@@ -20,5 +20,5 @@ HTML, CSS Grid
 2. Approach folder: cd my-sweet-kitchen
 3. Run project: live-server
 
-## App Pictures
+## Picture
 ![alt text](https://github.com/karatkuna/my-sweet-kitchen/blob/master/app-img/home.png?raw=true)
